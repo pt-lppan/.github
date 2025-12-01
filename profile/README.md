@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Selamat Datang di LPP Group</h1>
+<h1 align="center">Selamat Datang di PT LPP Agro Nusantara</h1>
 
 <p align="center">
   <strong>Driving the Future of Agroindustry</strong>
