@@ -16,7 +16,7 @@
 
 ### 🚀 Tentang Kami
 
-**LPP Group** (Lembaga Pendidikan Perkebunan) adalah holding BUMN Perkebunan yang berfokus pada pengembangan Sumber Daya Manusia (SDM), Riset & Konsultansi, serta Manajemen Aset untuk industri agribisnis di Indonesia.
+**LPP Group** (Lembaga Pendidikan Perkebunan) adalah anak perusahaan holding PT Perkebunan Nusantara yang berfokus pada pengembangan Sumber Daya Manusia (SDM), Riset & Konsultansi, serta Manajemen Aset untuk industri agribisnis di Indonesia.
 
 Kami berkomitmen untuk mendorong masa depan agroindustri melalui layanan terintegrasi dan keahlian yang telah teruji.
 
