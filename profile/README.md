@@ -30,6 +30,7 @@ Kami menyediakan solusi komprehensif untuk industri, yang mencakup:
 * **Consulting & Research:** Jasa konsultansi dan riset strategis untuk mendukung pertumbuhan bisnis di agroindustri.
 * **Assessment Center:** Penilaian kompetensi dan potensi SDM secara profesional.
 * **Asset Management:** Optimalisasi dan manajemen aset perusahaan.
+* **Digital Product:** Produk digital kami dirancang untuk memberikan solusi efektif, memenuhi kebutuhan teknologi saat ini dengan fitur dan keunggulan yang unggul.
 
 ---
 
@@ -63,7 +64,7 @@ Mari terhubung dan berkolaborasi. Temukan kami di:
   <a href="https://lpp.co.id/" target="_blank">
     <img src="https://img.shields.io/badge/Website-lpp.co.id-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://www.linkedin.com/company/lpp-group/" target="_blank">
+  <a href="https://www.linkedin.com/company/pt-lpp-agro-nusantaraa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-LPP%20Group-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:kontak@lpp.co.id" target="_blank">
